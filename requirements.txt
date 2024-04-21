@@ -1,0 +1,8 @@
+asgiref==3.8.1
+Django==2.2.4
+django-crispy-forms==1.7.2
+ldap3==2.6.1
+pillow==10.3.0
+pyasn1==0.4.8
+pytz==2019.2
+sqlparse==0.3.0
