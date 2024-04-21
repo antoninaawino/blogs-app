@@ -13,7 +13,7 @@ I have a base.html inherited by home.html and main.html inherited by the other w
 
 #Work on the project...  
 
--> git clone https://github.com/antoninaawino/blog-website.git. 
+-> git clone https://github.com/antoninaawino/blogs-app. 
 -> cd blog-website. 
 -> pip3 install requirements.txt //Install requirements. 
 -> python3 manage.py runserver //Run file. 
